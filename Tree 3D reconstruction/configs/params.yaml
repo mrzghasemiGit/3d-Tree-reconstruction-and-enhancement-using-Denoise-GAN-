@@ -1,0 +1,9 @@
+# fusion_params.yaml
+processing:
+  voxel_size: 0.02    # Downsampling resolution (meters)
+  ground_threshold: 0.1  # Root zone detection
+
+# gan_config.yaml
+training:
+  epochs: 100         # Training iterations
+  batch_size: 8       # Tree samples per batch

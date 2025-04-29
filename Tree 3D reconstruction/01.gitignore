@@ -1,0 +1,11 @@
+# Data
+*.ply
+*.pcd
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.env/
+venv/
