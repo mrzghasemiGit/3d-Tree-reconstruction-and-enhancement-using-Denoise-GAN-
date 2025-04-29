@@ -9,8 +9,8 @@ A two-stage system for processing and enhancing 3D tree structure data
 ## Installation
 
 ### Requirements
-- Python 3.8+
-- NVIDIA GPU (Recommended for Stage 2)
+- Python 3.9+
+- Open3D- NVIDIA GPU (Recommended for Stage 2)
 
 ```bash
 git clone https://github.com/yourusername/TreeProcessing.git
