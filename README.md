@@ -76,6 +76,6 @@ The final output fused_canopy.ply will be saved in the data directory.
 ### 📝 Citation
 This code is part of the paper:
 
-"Geometry-based Point Cloud Fusion of Dual-Layer UAV Photogrammetry and Unsupervised Generative Adversarial Network for 3D Tree Reconstruction in Semi-Arid Forests"
+"Geometry-based Point Cloud Fusion of Dual-Layer UAV Photogrammetry and Unsupervised Generative Adversarial Network for 3D Tree Reconstruction in Semi-Arid Forests" https://doi.org/10.1016/j.compag.2025.111024
 
 
